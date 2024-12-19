@@ -1,1 +1,1 @@
-# Arduino_control
+# smart_school_cpu
